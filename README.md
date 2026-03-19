@@ -6,12 +6,11 @@ My work sits at the intersection of embedded systems, biosensing, and edge AI. I
 
 Currently, at Vanderbilt University Medical Center, I’m building a large-scale Bluetooth Low Energy sensor fleet, architecting systems that can support hundreds of sensors at scale for real-world biomedical and sensing applications.
 
-I’m also building OeMga.me, a personalized, teachable biointeraction platform for ultra-low-power devices across three core repos: oemga-hardware, oemga-core, and oemga-squeeze. Together, they span custom hardware, embedded firmware, and compiler infrastructure for deployment-ready embedded intelligence.
+I’m also building OeMga.me, a personalized, teachable biointeraction platform for ultra-low-power devices across three core repos: oemga-hardware, oemga-core, and oemga-squeeze. Together, they span custom hardware, embedded firmware, and compiler infrastructure.
 
 My core interests include:
 - embedded AI on ultra-low-power hardware  
 - biosignal-driven human-computer interaction  
-- neural network deployment without heavyweight runtimes  
 - large-scale BLE sensor systems  
 - hardware, firmware, and toolchain co-design  
 

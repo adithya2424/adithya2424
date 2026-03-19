@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Adithya 
 
-<!--
-**adithya2424/adithya2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an embedded systems engineer building across the full stack of edge intelligence, from custom biosignal hardware and low-level firmware to neural compilers for resource-constrained devices.
 
-Here are some ideas to get you started:
+My work sits at the intersection of embedded systems, biosensing, and edge AI. I care deeply about deploying real intelligence on real hardware: efficient signal acquisition, firmware-native inference, ultra-low-power design, and clean toolchains that remove unnecessary abstraction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, at **Vanderbilt University Medical Center**, I’m building a **large-scale Bluetooth Low Energy sensor fleet**, architecting systems that can support **hundreds of sensors at scale** for real-world biomedical and sensing applications.
+
+I’m also building **OeMga.me** — a personalized, teachable biointeraction platform for ultra-low-power devices — across three core repos: **OeMga-Hardware**, **OeMga-Core**, and **OeMga-Squeeze**. Together, they span custom hardware, embedded firmware, and compiler infrastructure for deployment-ready embedded intelligence.
+
+My core interests include:
+- embedded AI on ultra-low-power hardware  
+- biosignal-driven human-computer interaction  
+- neural network deployment without heavyweight runtimes  
+- large-scale BLE sensor systems  
+- hardware, firmware, and toolchain co-design  
+
+You can explore my work below, and feel free to reach out if you're building in embedded systems, edge AI, biosensing, or low-power wireless systems.

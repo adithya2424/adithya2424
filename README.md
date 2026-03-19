@@ -11,7 +11,6 @@ I’m also building OeMga.me, a personalized, teachable biointeraction platform 
 My core interests include:
 - embedded AI on ultra-low-power hardware  
 - biosignal-driven human-computer interaction  
-- large-scale BLE sensor systems  
 - hardware, firmware, and toolchain co-design  
 
 You can explore my work below, and feel free to reach out if you're building in embedded systems, edge AI, biosensing, or low-power wireless systems.
